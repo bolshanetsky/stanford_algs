@@ -46,8 +46,5 @@ public class QuickSortTest {
 
     System.out.println(sortObject.getComparisonCounterValue());
 
-    // Answer for first elem pivot 162085
-    // Answer for last elem pivot 164123
-    // Answer for three median pivot 138382
   }
 }
